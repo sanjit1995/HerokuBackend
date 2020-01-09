@@ -1,0 +1,22 @@
+{
+  "name": "herokubackend",
+  "version": "1.0.0",
+  "description": "Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjit1995/HerokuBackend.git"
+  },
+  "author": "Sanjit Patnaik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanjit1995/HerokuBackend/issues"
+  },
+  "homepage": "https://github.com/sanjit1995/HerokuBackend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
